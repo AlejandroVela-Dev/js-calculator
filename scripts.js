@@ -33,7 +33,7 @@ const equalKey = document.querySelector('.equal');
 const calcDisplay = document.querySelector('.calc-display');
 
 /* Display management */
-const updateDisplay = () => (calcDisplay.value = equation);
+const updateDisplay = () => (calcDisplay.textContent = equation);
 
 /* Interface dynamic styling */
 const addActiveOperatorStyle = (e) => e.classList.add('active');
