@@ -108,6 +108,12 @@ body {
   filter: brightness(1.25);
 }
 
+.github-icon {
+  margin-top: 4rem;
+  width: 4rem;
+  height: 4rem;
+}
+
 @media (max-width: 575px) {
   html {
     font-size: 87.5%;
