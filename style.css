@@ -107,3 +107,9 @@ body {
   border: 1px solid var(--accent);
   filter: brightness(1.25);
 }
+
+@media (max-width: 575px) {
+  html {
+    font-size: 87.5%;
+  }
+}
