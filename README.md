@@ -17,19 +17,19 @@ https://alejandrovela-dev.github.io/js-calculator/
 
 ## Screenshots
 
-![JS Calculator](img/screenshot.png)
+![JS Calculator](https://media.giphy.com/media/hC6MfsbKHXqPzsAd8S/giphy.gif)
 
 ## Technologies
 
 - HTML5
 - CSS3
-- JavaScript ES6
+- JavaScript
 
 ## Features
 
 - Basic math operations (addition, subtraction, multiplication and division)
 - Floating point numbers support
-- Backspace button
+- Backspace function
 - Responsive design
 - Keyboard support
 
